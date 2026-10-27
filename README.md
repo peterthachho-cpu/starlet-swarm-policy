@@ -1,10 +1,10 @@
-﻿# Starlet Swarm privacy policy
+# Starlet Swarm privacy policy
 
 Static GitHub Pages site for Starlet Swarm (`com.neaura.starletswarm`). No build, dependencies, JavaScript, or external fonts.
 
 ## Review before publication
 
-- Confirm the privacy contact. `index.html` currently uses `Seidelin2@hotmail.com`, copied from the game's SettingsManager.cs; ownership has not been confirmed.
+- Privacy contact: `peterthachho@gmail.com`, confirmed by the user.
 - This policy describes the current repository's AdMob integration, not a future ad-free build. Update the policy and Play Console Data safety declaration if the released build changes.
 - Verify that the production binary matches these data practices, including any third-party SDKs, retention practices, and target audience. Repository inspection alone cannot verify the installed production binary or external account settings.
 - Confirm the developer identity shown on the store. The page names the game and Neaura, as in the project settings.
